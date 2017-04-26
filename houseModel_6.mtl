@@ -1,0 +1,40 @@
+newmtl blinn1SG
+illum 4
+Kd 0.83 0.83 0.83
+Ka 0.00 0.00 0.00
+Tf 0.00 0.00 0.00
+Ni 1.00
+Ks 0.66 0.66 0.66
+newmtl initialShadingGroup
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd beige-grunge-brick-wall-texture-background-brown-dirty-surface-pattern-backdrop-architectural-element-urban-concept-68406887-edited_tinted.jpg
+Ni 1.00
+newmtl lambert4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd wood+pattern+texture+4_tinted_smaller.jpg
+Ni 1.00
+newmtl lambert5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd door_image.jpg
+Ni 1.00
+newmtl lambert6SG
+illum 4
+Kd 1.00 0.92 0.31
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+Ni 1.00
